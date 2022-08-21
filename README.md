@@ -16,5 +16,5 @@ npm install
 npm start
 ```
 
-Its complete social media solution with back-end but i push back-end separate which is on django. Repository of back end
-https://github.com/tabish-debug/social-media-app-backend
+Its complete social media solution with back-end but i push back-end separate which is on django. Repository of back end\
+[social media solution(back-end)](https://github.com/tabish-debug/social-media-app-backend)
