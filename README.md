@@ -1,10 +1,20 @@
-# front_end
+# Social Media Solution(Front-end)
 
-this is complete social media solution website in which i build post on reddit, twitter and instagram using bots also update any post on these social media websites.
-its complete app also back-end is available on my github.
- please see this its really helpful for you if you want to build any social media solution
+Complete front end of social media solution on react.js
 
-setting .env file also
+### `.env file`
 
+```
+REACT_APP_DEFAULT_API_URL=
+REACT_APP_GOOGLE_CLIENT_ID=
+```
+
+### `running commands(macOS)`
+
+```
 npm install
 npm start
+```
+
+Its complete social media solution with back-end but i push back-end separate which is on django. Repository of back end
+https://github.com/tabish-debug/social-media-app-backend
