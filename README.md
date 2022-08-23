@@ -1,4 +1,4 @@
-# Social Media Solution(Front-end)
+# `Social Media Solution(Front-end)`
 
 Complete front end of social media solution on react.js
 
